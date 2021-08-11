@@ -22,7 +22,7 @@ The product comes with **Firebase** integration.
 
 <br >
 
-![React Nodejs Datta Able - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/125737710-834a9e6f-c39b-4f3b-a42a-9583ce2ce1da.png)
+![React Firebase Datta Able PRO - Open-source full-stack seed project crafted by CodedThemes and AppSeed.](https://user-images.githubusercontent.com/51070104/129069303-d2a9505f-0b1b-4b16-b41a-e4c08c27ad33.png)
 
 <br />
 
